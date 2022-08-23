@@ -6,15 +6,33 @@ body{
 .banner{
     background-image: url(images/donation1.jpg);
     background-repeat: no-repeat;
-    background-size: cover;   
-}
-.banner h1, p{
-    color: white;
+    background-size: cover;
     text-align: center;
+    color: white;
+    padding: 100px;   
 }
 .link-button{
     text-decoration: none;
     background-color: tomato;
-    padding: 3px 8px;
+    padding: 10px 20px;
     border-radius: 5px;
+    color: white;
+}
+.donate-today{
+    text-align: center;
+    padding: 100px;
+}
+.donate-amount a{
+    text-decoration: none;
+    background-color: rgb(242, 242, 247);
+    padding: 30px;
+    font-size: 30px;
+    font-weight: 800;
+    color: grey;
+}
+.donate-amount #default-amount{
+    border: 2px solid red;
+    border-radius: 5px;
+    background-color: pink;
+    color: palevioletred;
 }
