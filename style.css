@@ -92,6 +92,13 @@ body p{
 #education{
     background-color: bisque;
 }
+.update{
+    text-align: center;
+    padding: 0 100px;
+}
+form{
+    background-color: bisque;
+}
 .footer{
     background-color: black;
     text-align: center;
