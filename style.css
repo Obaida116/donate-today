@@ -22,6 +22,9 @@ body{
     text-align: center;
     padding: 100px;
 }
+.donate-amount{
+    margin-bottom: 80px;
+}
 .donate-amount a{
     text-decoration: none;
     background-color: rgb(242, 242, 247);
@@ -35,4 +38,26 @@ body{
     border-radius: 5px;
     background-color: pink;
     color: palevioletred;
+}
+.donate-today-header{
+    margin-bottom: 80px;
+}
+.submit-amount p{
+    padding: 20px 50px;
+    border-bottom: 1px solid rgb(192, 190, 190);
+    color: rgb(214, 209, 209);
+}
+
+.footer{
+    background-color: black;
+    text-align: center;
+    padding: 15px 0;
+}
+.footer h1{
+    color: brown;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Lato', sans-serif;
+}
+.footer p{
+    color:white;
 }
