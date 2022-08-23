@@ -71,6 +71,18 @@ body p{
     margin-right: 15px;
     border-radius: 5px;
 }
+.donate-plan-extension{
+    display: flex;
+    padding: 110px;
+}
+.donate-plan-extension div{
+    width: 50%;
+    padding: 10px;
+}
+#donation10{
+    width: 100%;
+}
+
 #food{
     background-color: aquamarine;
 }
